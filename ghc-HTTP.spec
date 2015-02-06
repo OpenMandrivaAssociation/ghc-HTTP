@@ -5,7 +5,7 @@
 Summary:	A library for client-side HTTP for Haskell
 Name:		ghc-%{module}
 Version:	4000.2.6
-Release:	2
+Release:	3
 License:	BSD
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
